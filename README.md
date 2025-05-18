@@ -202,6 +202,8 @@ Use the following test card numbers with any future expiry date and any 3-digit 
 
 ## 🎥 Project Demo
 
-[![UrbanStyle Demo](https://img.youtube.com/vi/dUZO24vR81c/0.jpg)](https://www.youtube.com/watch?v=dUZO24vR81c)
+<a href="https://www.youtube.com/watch?v=dUZO24vR81c" target="_blank">
+  <img src="https://img.youtube.com/vi/dUZO24vR81c/0.jpg" alt="UrbanStyle Demo" style="width:100%; max-width:800px;"/>
+</a>
 
 ---
