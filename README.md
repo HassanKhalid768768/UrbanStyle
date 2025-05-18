@@ -199,3 +199,9 @@ Use the following test card numbers with any future expiry date and any 3-digit 
 4. Shop from the customer website and place test orders using Stripe.
 
 ---
+
+## 🎥 Project Demo
+
+[![UrbanStyle Demo](https://img.youtube.com/vi/dUZO24vR81c/0.jpg)](https://www.youtube.com/watch?v=dUZO24vR81c)
+
+---
