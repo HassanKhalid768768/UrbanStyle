@@ -1,4 +1,3 @@
-
 # 🛍️ UrbanStyle – E-Commerce Web Application
 
 **UrbanStyle** is a full-featured e-commerce web application built using the **MERN stack** (MongoDB, Express.js, React, Node.js).
@@ -202,8 +201,4 @@ Use the following test card numbers with any future expiry date and any 3-digit 
 
 ## 🎥 Project Demo
 
-<a href="https://www.youtube.com/watch?v=dUZO24vR81c" target="_blank">
-  <img src="https://img.youtube.com/vi/dUZO24vR81c/0.jpg" alt="UrbanStyle Demo" style="width:100%; max-width:800px;"/>
-</a>
-
----
+[▶️ Watch the Demo](https://github.com/user-attachments/assets/17517652-4292-4b62-a446-79680293cd91)
